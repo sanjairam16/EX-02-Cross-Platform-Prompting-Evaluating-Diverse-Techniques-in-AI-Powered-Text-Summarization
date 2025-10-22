@@ -19,6 +19,7 @@ Speed
 User experience
 
 ## Algorithm
+<img width="724" height="827" alt="{6803C2DA-43DC-47A5-9F20-A5D7EEA179E1}" src="https://github.com/user-attachments/assets/00f6ea8c-fc35-4680-b8b9-e415d769d4e2" />
 
 ## Result
 
